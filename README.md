@@ -2,7 +2,8 @@
  Easy image-to-text when lecturer gave you mundane copy-paste task.
 
 # features
-- Image to text format python dari CVIOT
+- Clipboard image to text
+- Python indentation supported
 
 # to-do:
 - GUInya dibenerin @steven
