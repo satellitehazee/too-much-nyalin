@@ -85,7 +85,7 @@ def ocrBrute():
 
                 if ":" in line.text:
                     extra_tab += 1
-    os.remove("temp.png")
+    # os.remove("temp.png")
     return result
 
 
